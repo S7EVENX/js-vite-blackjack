@@ -1,3 +1,3 @@
 # Blackjack Vite
 
-Juego de cartas Blackjack hecho con JavaScript
+Juego de cartas Blackjack hecho con JavaScript.
